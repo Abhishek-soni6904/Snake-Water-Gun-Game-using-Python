@@ -30,4 +30,4 @@ To run this game, you need to have the following:
 2. Save the Python script (the code provided) in a `.py` file (e.g., `snake_water_gun.py`).
 3. Run the Python file in your terminal or command line using:
    ```bash
-   python snake_water_gun.py
+   python snake_water_gun_game.py
